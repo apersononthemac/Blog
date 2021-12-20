@@ -1,13 +1,21 @@
 +++
 title = "Hello Friend"
-date = "18-12-21"
+date = "2021-12-20"
 author = "Jake Purton"
-cover = "hello.jpg"
+cover = "drumkit.png"
 description = "Drumkit review."
 +++
 
-This text is normal. **This text is bold.**
+This is a drumkit which is **very cool**.
 
-> This is ***indented***
+> It has 7 different *hitty things*.
 
-- Bullet-point
+- Hi-Hat
+- Snare
+- Ride
+- Kick
+- High-Tom
+- Mid-Tom
+- Floor-Tom
+
+It is missing a crash symbol and therefore is only a 7/10.
