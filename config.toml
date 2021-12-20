@@ -54,7 +54,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Jake's Blog"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
@@ -68,7 +68,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Jake"
       logoHomeLink = "/"
 
     [languages.en.menu]
